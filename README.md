@@ -48,6 +48,8 @@ $ perl split_pairs.pl -i unsorted.fastq.gz -B 1G
 
 $ perl split_pairs.pl -i sorted.fastq -n -l sorted.12.fq -R "(^.*?)#\w+?(/[12])" -S "\1/\2" 
 
+$ perl split_pairs.pl -i SRR491411.fastq -R "(^SRR\d+\.\d+)\.([12])" -S "\1/\2"
+
 $ perl split_pairs.pl -i sorted.fastq -n -1 reads1.fq -2 reads2.fq -s singles.fq -z 8
 
 $ perl split_pairs.pl -i sorted1.9.fq.gz -p " "
