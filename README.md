@@ -86,7 +86,7 @@ on kseq.h by Attractive Chaos <attractor@live.co.uk> and [pigz](http://zlib.net/
 
 **CITATION**
 
-Contreras-Moreira B, Cantalapiedra CP, Garcia Pereira MJ, Sancho R. eead-csic-compbio/split_pairs. San Francisco: GitHub; 2016. Release v0.5. Available from: [https://github.com/Ensembl/plant-scripts](https://github.com/eead-csic-compbio/split_pairs).
+Contreras-Moreira B, Cantalapiedra CP, Garcia Pereira MJ, Sancho R. eead-csic-compbio/split_pairs. San Francisco: GitHub; 2016. Release v0.5. Available from: https://github.com/eead-csic-compbio/split_pairs
 
 Or in BibTeX format:
 
