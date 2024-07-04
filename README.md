@@ -83,3 +83,19 @@ EEAD-CSIC 2013-16 <www.eead.csic.es/compbio>
 
 This software is based on <http://lh3lh3.users.sourceforge.net/parsefastq.shtml> and relies 
 on kseq.h by Attractive Chaos <attractor@live.co.uk> and [pigz](http://zlib.net/pigz).
+
+**CITATION**
+
+Contreras-Moreira B, Cantalapiedra CP, Garcia Pereira MJ, Sancho R. eead-csic-compbio/split_pairs. San Francisco: GitHub; 2016. Release v0.5. Available from: [https://github.com/Ensembl/plant-scripts](https://github.com/eead-csic-compbio/split_pairs).
+
+Or in BibTeX format:
+
+    @misc{ContrerasMoreira2016,
+      author = {Contreras-Moreira, B., Cantalapiedra, C.P., Garcia Pereira, M.J., Sancho, R.},
+      title = {eead-csic-compbio/split_pairs},
+      year = {2016},
+      publisher = {GitHub},
+      journal = {GitHub repository},
+      howpublished = {\url{https://github.com/eead-csic-compbio/split_pairs}},
+      release = {v0.5}
+    }
